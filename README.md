@@ -1,2 +1,2 @@
 # Investigating_Netflix
-Investigating whether movies have shortened ove time
+Investigating whether movies have shortened over time
