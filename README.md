@@ -3,7 +3,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Start coding!
 netflix_df=pd.read_csv("netflix_data.csv")
 
 #Filtering data to remove TV shows
